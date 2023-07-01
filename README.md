@@ -19,13 +19,17 @@ There will be a robust database which stores all the data related to recipe base
 type, region of cuisine and related information.
 ## On one button click we can retrieve -
 • The list of all recipes based the filters provided.
+
 • The images and the procedures of preparation of the recipe
+
 • A link to the website for detailed information.
 ## Features of recipe database:
 • Search by recipe : a search is performed by providing the recipe name and cuisine other
 filters.
+
 • Search by ingredients: a search is performed by providing the names of the ingredients and
 filters.
+
 The below image represents the ER diagram for the Database used.
 ![image](https://github.com/Danush-Kanchi/CookCurry/assets/66108624/d2804eec-07a9-4f05-9cf3-6e63659dbb60)
 The schema diagram is as follows
