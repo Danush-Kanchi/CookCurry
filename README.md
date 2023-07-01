@@ -39,3 +39,8 @@ The schema diagram is as follows
 
 ![Capture](https://github.com/Danush-Kanchi/CookCurry/assets/66108624/1fb1256f-d519-4d3b-abd1-9712f043e4f6)
 
+The below is the landing\Home page providing the options for the search types.
+
+<img width="1440" alt="Screenshot 2023-07-01 at 9 11 22 AM" src="https://github.com/Danush-Kanchi/CookCurry/assets/66108624/bff0d9e4-ad77-4b99-9e0c-4921cbd17fd6">
+
+Here are a few sc
