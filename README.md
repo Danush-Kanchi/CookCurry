@@ -43,4 +43,3 @@ The below is the landing\Home page providing the options for the search types.
 
 <img width="1440" alt="Screenshot 2023-07-01 at 9 11 22 AM" src="https://github.com/Danush-Kanchi/CookCurry/assets/66108624/bff0d9e4-ad77-4b99-9e0c-4921cbd17fd6">
 
-Here are a few sc
